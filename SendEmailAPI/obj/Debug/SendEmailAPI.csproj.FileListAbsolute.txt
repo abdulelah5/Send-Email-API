@@ -1,0 +1,123 @@
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\SendEmailAPI.dll.config
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\SendEmailAPI.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\SendEmailAPI.pdb
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Antlr3.Runtime.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\EntityFramework.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\EntityFramework.SqlServer.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Newtonsoft.Json.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Owin.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Net.Http.Formatting.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Helpers.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Http.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Http.WebHost.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Mvc.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Optimization.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Razor.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.WebPages.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.WebPages.Razor.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\WebGrease.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Helpers.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Mvc.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Optimization.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Razor.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.WebPages.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.WebPages.Razor.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Newtonsoft.Json.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Antlr3.Runtime.pdb
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Net.Http.Formatting.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Http.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\System.Web.Http.WebHost.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\EntityFramework.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\EntityFramework.SqlServer.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\obj\Debug\SendEmailAPI.dll
+D:\Desktop\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI\obj\Debug\SendEmailAPI.pdb
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\SendEmailAPI.dll.config
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\SendEmailAPI.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\SendEmailAPI.pdb
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Antlr3.Runtime.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\EntityFramework.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\EntityFramework.SqlServer.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Newtonsoft.Json.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Owin.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Net.Http.Formatting.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Helpers.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Http.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Http.WebHost.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Mvc.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Optimization.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Razor.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.WebPages.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.WebPages.Razor.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\WebGrease.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Helpers.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Mvc.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Optimization.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Razor.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.WebPages.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.WebPages.Razor.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Newtonsoft.Json.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Antlr3.Runtime.pdb
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Net.Http.Formatting.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Http.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\System.Web.Http.WebHost.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\EntityFramework.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\EntityFramework.SqlServer.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\obj\Debug\SendEmailAPI.csproj.AssemblyReference.cache
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\obj\Debug\SendEmailAPI.csproj.CoreCompileInputs.cache
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\obj\Debug\SendEmai.A9FA7DF7.Up2Date
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\obj\Debug\SendEmailAPI.dll
+D:\Desktop\Abdulelah Laptop\D\Personal project-C#\NGHA - Projects\SendEmailAPI\SendEmailAPI git\SendEmailAPI\obj\Debug\SendEmailAPI.pdb

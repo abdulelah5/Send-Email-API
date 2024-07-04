@@ -1,0 +1,16 @@
+Post object:
+{
+    "From": "me@gmail.com",
+    "To": "Abdulelah@gmail.com",
+    "Body": "Hi",
+    "Subject": "Test"
+}
+
+Response object:
+{
+    "code": "200",
+    "isSuccess": true,
+    "result": "Success",
+    "data": "Email has been sent.",
+    "error": null
+}

@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{9B8D5C55-E2A8-43DE-931E-D84627289D88}|SendEmailAPI\\SendEmailAPI.csproj|solutionrelative:sendemailapi\\controllers\\api\\sendemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B8D5C55-E2A8-43DE-931E-D84627289D88}|SendEmailAPI\\SendEmailAPI.csproj|d:\\desktop\\abdulelah laptop\\d\\personal project-c#\\ngha - projects\\sendemailapi\\sendemailapi git\\sendemailapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{9B8D5C55-E2A8-43DE-931E-D84627289D88}|SendEmailAPI\\SendEmailAPI.csproj|D:\\Desktop\\Abdulelah Laptop\\D\\Personal project-C#\\NGHA - Projects\\SendEmailAPI\\SendEmailAPI git\\sendemailapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{9B8D5C55-E2A8-43DE-931E-D84627289D88}|SendEmailAPI\\SendEmailAPI.csproj|solutionrelative:sendemailapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B8D5C55-E2A8-43DE-931E-D84627289D88}|SendEmailAPI\\SendEmailAPI.csproj|d:\\desktop\\abdulelah laptop\\d\\personal project-c#\\ngha - projects\\sendemailapi\\sendemailapi git\\sendemailapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B8D5C55-E2A8-43DE-931E-D84627289D88}|SendEmailAPI\\SendEmailAPI.csproj|D:\\Desktop\\Abdulelah Laptop\\D\\Personal project-C#\\NGHA - Projects\\SendEmailAPI\\SendEmailAPI git\\sendemailapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B8D5C55-E2A8-43DE-931E-D84627289D88}|SendEmailAPI\\SendEmailAPI.csproj|solutionrelative:sendemailapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B8D5C55-E2A8-43DE-931E-D84627289D88}|SendEmailAPI\\SendEmailAPI.csproj|d:\\desktop\\abdulelah laptop\\d\\personal project-c#\\ngha - projects\\sendemailapi\\sendemailapi git\\sendemailapi\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B8D5C55-E2A8-43DE-931E-D84627289D88}|SendEmailAPI\\SendEmailAPI.csproj|D:\\Desktop\\Abdulelah Laptop\\D\\Personal project-C#\\NGHA - Projects\\SendEmailAPI\\SendEmailAPI git\\sendemailapi\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B8D5C55-E2A8-43DE-931E-D84627289D88}|SendEmailAPI\\SendEmailAPI.csproj|solutionrelative:sendemailapi\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,8 +51,7 @@
               "RelativeToolTip": "SendEmailAPI\\Models\\Response.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:34:15.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T17:34:15.806Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "SendEmailAPI\\Models\\Email.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:34:05.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T17:34:05.814Z"
             },
             {
               "$type": "Document",
@@ -75,7 +73,7 @@
               "RelativeDocumentMoniker": "SendEmailAPI\\Controllers\\API\\SendEmailController.cs",
               "ToolTip": "D:\\Desktop\\Abdulelah Laptop\\D\\Personal project-C#\\NGHA - Projects\\SendEmailAPI\\SendEmailAPI git\\SendEmailAPI\\Controllers\\API\\SendEmailController.cs",
               "RelativeToolTip": "SendEmailAPI\\Controllers\\API\\SendEmailController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAuwDoAAAAIAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA8wDoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T17:30:30.889Z",
               "EditorCaption": ""
